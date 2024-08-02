@@ -9,8 +9,8 @@ I'm building this beast from the ground up, so buckle up. Expect blazing fast pe
 <!-- Images side by side -->
 <table>
   <tr>
-    <td><img src="assets/LLaMa.jpeg" alt="LLaMa" width="300" /></td>
-    <td><img src="assets/LLaMa2.jpeg" alt="LLaMa2" width="300" /></td>
+    <td><img src="assets/LLaMa.jpeg" alt="LLaMa" width="400" /></td>
+    <td><img src="assets/LLaMa2.jpeg" alt="LLaMa2" width="400" /></td>
   </tr>
 </table>
 
