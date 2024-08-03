@@ -14,6 +14,13 @@ I'm building this beast from the ground up, so buckle up. Expect blazing fast pe
   </tr>
 </table>
 
+<!-- Tweet image -->
+<p align="center">
+  <a href="https://x.com/MAYURINGOLE16/status/1819794132904321362">
+    <img src="assets/Tweet.png" alt="Tweet" width="500" />
+  </a>
+</p>
+
 **Features:**
 - Pure, unadulterated PyTorch goodness.
 - Ruthless optimization for low latency and high throughput.
